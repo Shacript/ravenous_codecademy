@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ravenous_codecademy/static/css/main.6b446050.css",
+    "main.js": "/ravenous_codecademy/static/js/main.4c30c6a6.js",
+    "static/js/787.ba188f73.chunk.js": "/ravenous_codecademy/static/js/787.ba188f73.chunk.js",
+    "static/media/background_search_desktop.jpg": "/ravenous_codecademy/static/media/background_search_desktop.5d22362af7aa3252eb5b.jpg",
+    "static/media/background_search_mobile.jpg": "/ravenous_codecademy/static/media/background_search_mobile.a6f8ee50c5c0c66a98c5.jpg",
+    "index.html": "/ravenous_codecademy/index.html",
+    "main.6b446050.css.map": "/ravenous_codecademy/static/css/main.6b446050.css.map",
+    "main.4c30c6a6.js.map": "/ravenous_codecademy/static/js/main.4c30c6a6.js.map",
+    "787.ba188f73.chunk.js.map": "/ravenous_codecademy/static/js/787.ba188f73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b446050.css",
+    "static/js/main.4c30c6a6.js"
+  ]
+}
