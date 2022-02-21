@@ -1,16 +1,16 @@
 # Revenous Pratice Project With Codecademy ( Built with react )
 
-Actually it is work with api but ...
-I didn't put it to front end server so :| ( COR Policy thing ) RIP
-I'll let it die here so i'll try to make restful api for myself to work on next pratice project.
-
+Actually it is work with api but ... <br>
+I didn't put it to front end server so :| ( COR Policy thing ) RIP <br>
+I'll let it die here so i'll try to make restful api for myself to work on next pratice project. <br>
+<br>
 https://www.codecademy.com/learn/paths/build-web-apps-with-react
-
-**Done**
-Revenous Part 1
-Revenous Part 2
-Revenous Part 3
-Revenous Part 4
+<br>
+**Done**<br>
+Revenous Part 1<br>
+Revenous Part 2<br>
+Revenous Part 3<br>
+Revenous Part 4<br>
 
 ### `Don't forget to setting Yelp api key on .env`
 
