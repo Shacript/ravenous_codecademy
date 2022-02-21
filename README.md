@@ -8,10 +8,10 @@ I'll let it die here so i'll try to make restful api for myself to work on next 
 https://www.codecademy.com/learn/paths/build-web-apps-with-react
 <br>
 **Done**<br>
-Revenous Part 1<br>
-Revenous Part 2<br>
-Revenous Part 3<br>
-Revenous Part 4<br>
+Revenous Part 1 ( Create Project & Components )<br>
+Revenous Part 2 ( Passing infomation )<br>
+Revenous Part 3 ( Setting the Search Bar's State )<br>
+Revenous Part 4 ( Interacting with Yelp API )<br>
 
 ### `Don't forget to setting Yelp api key on .env`
 
